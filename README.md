@@ -1,4 +1,4 @@
-# TP Go — NATS + RabbitMQ + Elasticsearch (Étapes 1 à 3)
+# NATS + RabbitMQ + Elasticsearch
 
 ## Prérequis (services up)
 - NATS : `nats://localhost:4222` (monitoring : `http://localhost:8222`)
