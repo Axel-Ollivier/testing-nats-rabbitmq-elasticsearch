@@ -7,6 +7,8 @@
 
 ### Quick check
 ```bash
+docker-compose up -d
+
 curl -i http://localhost:8222/varz
 curl -u guest:guest -i http://localhost:15672/api/overview
 curl -i http://localhost:9200
